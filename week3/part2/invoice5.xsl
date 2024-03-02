@@ -15,6 +15,15 @@
 	
 	<h2>Payment Info : <xsl:value-of select="invoice/payment_information"/> </h2>
 	
+	<br/>
+	
+	<xsl:element name="a">
+		<xsl:attribute name="href">
+			www.tudublin.ie
+		</xsl:attribute>
+		www.tudublin.ie
+	</xsl:element>
+	
 </xsl:template>
 
 <xsl:template match="item">
