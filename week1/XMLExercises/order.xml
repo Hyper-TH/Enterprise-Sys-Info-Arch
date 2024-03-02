@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+   <Person>John Doe</Person>
+
+    <ShipTo>
+        <Name>Jane Doe</Name>
+        <Address>2032 Latham Street</Address>
+        <City>Bristol</City>
+        <Country>United Kingdom</Country>
+    </ShipTo>
+    
+    <Item id="001">
+        <Name>Brother HL-L3210CW</Name>
+        <Note>None Duplex</Note>
+        <Quantity>1</Quantity>
+        <Price>199.9</Price>
+    </Item>
+    
+    <Item id="002">
+        <Name>Philips USB 64GB</Name>
+        <Note>N/A</Note>
+        <Quantity>2</Quantity>
+        <Price>15.9</Price>
+    </Item>
+
+    <TotalValue></TotalValue>
+</Order>

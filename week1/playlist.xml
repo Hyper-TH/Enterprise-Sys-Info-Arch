@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Playlist>
+
+    <ID id="1">
+        <Title>Expedition</Title>
+        <Artist>Hyper Potions</Artist>
+        <Album>N/A</Album>
+        <MetaData>
+            <Date>2020-05-04T17:33:25</Date>
+            <Location>C:/User/Tracks</Location>
+        </MetaData>
+    </ID>
+    
+    <ID id="2">
+        <Title>Free Bird</Title>
+        <Artist>Lynyrd Skynyrd</Artist>
+        <Album>Pronounced 'Lĕh-'nérd 'Skin-'nérd</Album>
+        <MetaData>
+            <Date>2020-04-15 10:45:07</Date>
+            <Location>C:/User/Tracks</Location>
+        </MetaData>
+    </ID>
+
+</Playlist>

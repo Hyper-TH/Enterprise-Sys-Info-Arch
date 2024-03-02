@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<invoice xmlns="http://www.tudublin.ie"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://www.tudublin.ie invoice.xsd">
+	
+	<invoiceNumber>1</invoiceNumber>
+	<invoiceDate>2001-10-06</invoiceDate>
+	<invoiceTotal>120.00</invoiceTotal>
+	<issuedBy>Twila</issuedBy>
+	<billTo>
+		<name>John</name>
+		<address>
+			<number>1</number>
+			<street>George St</street>
+			<city>Dublin</city>
+		</address>
+	</billTo>
+	<item>
+		<name>Philips USB 64GB</name>
+		<quantity>2</quantity>
+		<price>20</price>
+	</item>
+	<item>
+		<name>Instax Mini 11</name>
+		<quantity>1</quantity>
+		<price>80</price>
+	</item>
+	<paymentInformation>No additional info</paymentInformation>
+</invoice>
